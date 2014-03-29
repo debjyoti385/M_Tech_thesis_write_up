@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: thesis.aux
+A level-1 auxiliary file: title.aux
+A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: Dedication.aux
+A level-1 auxiliary file: acknowledgement.aux
+A level-1 auxiliary file: Introduction.aux
+The style file: plain.bst
+Database file #1: references.bib
+Warning--empty journal in chtepen2005dynamic
+Warning--empty journal in jis1979computers
+Warning--empty journal in ritchie2003fast
+Warning--empty journal in ritchie2004hybrid
+You've used 42 entries,
+            2118 wiz_defined-function locations,
+            726 strings with 11452 characters,
+and the built_in function-call counts, 14019 in all, are:
+= -- 1396
+> -- 607
+< -- 16
++ -- 253
+- -- 198
+* -- 891
+:= -- 2273
+add.period$ -- 131
+call.type$ -- 42
+change.case$ -- 220
+chr.to.int$ -- 0
+cite$ -- 46
+duplicate$ -- 565
+empty$ -- 1130
+format.name$ -- 198
+if$ -- 2984
+int.to.chr$ -- 0
+int.to.str$ -- 42
+missing$ -- 40
+newline$ -- 212
+num.names$ -- 84
+pop$ -- 273
+preamble$ -- 1
+purify$ -- 183
+quote$ -- 0
+skip$ -- 424
+stack$ -- 0
+substring$ -- 845
+swap$ -- 144
+text.length$ -- 16
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 160
+warning$ -- 4
+while$ -- 144
+width$ -- 44
+write$ -- 453
+(There were 4 warnings)

@@ -1,0 +1,45 @@
+\chapter{Job Scheduler Module User's Manual}
+\label{userman}
+This chapter explains how to run and configure our scheduler and its other components related to it. 
+\section{System Requirements}
+\begin{itemize}
+\item Intel processor / AMD processor 2.0 GHz or better, RAM: 4 GB, with 500 MB of free storage space.
+\item Linux OS (Ubuntu 10.10 / Fedora 13 / Linux mint or better )
+\item C++ library
+\item SSH services on resources/computers with key based login.
+\item MPICH2 library with hydra(mpiexec) \cite{mpich2}
+\item GNUPLOT software
+\end{itemize}
+
+\section{Installation}
+Before executing the scheduler following steps are needed to be done :
+\begin{itemize}
+\item Extract ``modjs.zip'' 
+\subitem \$ tar -xvzf modjs.zip
+\item Compile the source code
+\subitem \$ make
+\item Go to folder ``resource''
+\subitem \$ cd resource
+\subitem \$ gcc -c resource\_manager.c -o resource
+\item Enter available resource information in ``initial\_resource.in'' in specified format.
+\item Copy any job file from "data" folder and name it "job.in" for e.g.
+\subitem \$ cp data/DAS-2/job\_no\_pred.in job.in
+\item prepare hostfile.txt with ip address or domain name of all resources.
+\end{itemize}
+
+\section{Execution}
+Command to run the job scheduler follows :
+\begin{itemize}
+ \item mpiexec  -disable-hostname-propagation -hostfile hostfile.txt ./modjsg $<$plot$>$ $<$NUM\_JOBS$>$ $<$POPULATION$>$ $<$GENERATION$>$ $<$RANDOM\_INTEGER$>$
+\item $<$plot$>$  - 0 (run without GNUPLOT), 1 (without GNUPLOT)
+\item $<$NUM\_JOBS$>$ - Number of jobs to be scheduled on each run of the job scheduler module. Range [100,1000] multiplier of 4.
+\item $<$POPULATION$>$ - Chromosome population for genetic algorithm range, Range [200,1000]
+ \item $<$GENERATION$>$ - Iteration in genetic algorithm, Range [50,300]
+\item $<$RANDOM\_INTEGER$>$ - Any integer for randomize function seed.\\
+e.g. \$ mpiexec  -disable-hostname-propagation -hostfile hostfile.txt ./modjsg 0 100 400 300 432421 \\
+\item Command to run resource manager : 
+\subitem \$ cd resource 
+\subitem \$ ./resource 
+\end{itemize}
+
+To configure the selection criteria of schedule after final population of efficient schedule has been generated modify weight\_fun[] in report\_best() function in report.c file.

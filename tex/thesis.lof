@@ -1,0 +1,27 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Grid Architecture and components}}{2}{figure.6}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Scheduling Model}}{12}{figure.18}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces NSGA II procedure \cite {deb2002fast}}}{19}{figure.41}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces One point crossover}}{20}{figure.44}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces k-point crossover}}{20}{figure.45}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Mask crossover}}{21}{figure.46}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Fitness based crossover}}{22}{figure.47}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Mutation- move}}{23}{figure.49}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Mutation- swap}}{23}{figure.50}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Implemented System model}}{32}{figure.189}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Evaluation of makespan and utilization on 10 resources on workload 2}}{38}{figure.203}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Evaluation of makespan and utilization on 15 resources on workload 1}}{39}{figure.204}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Evaluation of makespan and utilization on 20 resources on workload 1}}{40}{figure.205}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Evaluation of makespan and utilization on 25 resources on workload 2}}{41}{figure.206}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Evaluation of Ultilization on workload 1 and 2}}{42}{figure.210}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \def \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {\leftmargin \leftmargini \topsep 9\p@ plus3\p@ minus5\p@ \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Workload 2 (SHARCNET)}}}{42}{figure.210}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \def \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {\leftmargin \leftmargini \topsep 9\p@ plus3\p@ minus5\p@ \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Workload 1 (DAS-2)}}}{42}{figure.210}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces pareto front for makespan, time targidity and energy efficiency}}{44}{figure.212}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Performance under Job type constraint, SHARCNET Workload}}{45}{figure.214}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Performance under Job type constraint, DAS-2 Workload}}{45}{figure.215}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Pareto front in experiment under all constraint}}{48}{figure.220}
+\addvspace {10\p@ }
+\addvspace {10\p@ }

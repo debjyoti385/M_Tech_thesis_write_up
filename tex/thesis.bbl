@@ -1,0 +1,257 @@
+\begin{thebibliography}{10}
+
+\bibitem{abraham2000nature}
+Ajith Abraham, Rajkumar Buyya, and Baikunth Nath.
+\newblock Nature’s heuristics for scheduling jobs on computational grids.
+\newblock In {\em The 8th IEEE international conference on advanced computing
+  and communications (ADCOM 2000)}, pages 45--52, 2000.
+
+\bibitem{abraham2006scheduling}
+Ajith Abraham, Hongbo Liu, Weishi Zhang, and Tae-Gyu Chang.
+\newblock Scheduling jobs on computational grids using fuzzy particle swarm
+  algorithm.
+\newblock In {\em Knowledge-Based Intelligent Information and Engineering
+  Systems}, pages 500--507. Springer, 2006.
+
+\bibitem{ang2009bandwidth}
+TF~Ang and WK~Ng.
+\newblock A bandwidth-aware job scheduling based scheduling on grid computing.
+\newblock {\em Asian Network for Scientific Information}, 8(3):372--277, 2009.
+
+\bibitem{bandyopadhyay2008simulated}
+Sanghamitra Bandyopadhyay, Sriparna Saha, Ujjwal Maulik, and Kalyanmoy Deb.
+\newblock A simulated annealing-based multiobjective optimization algorithm:
+  Amosa.
+\newblock {\em Evolutionary Computation, IEEE Transactions on}, 12(3):269--283,
+  2008.
+
+\bibitem{brucker2006scheduling}
+Knust Brucker.
+\newblock {\em Book: Complex Scheduling}.
+\newblock Springer, 2006.
+
+\bibitem{brucker2004scheduling}
+Peter Brucker.
+\newblock {\em Book: Scheduling algorithms}.
+\newblock Springer, 2004.
+
+\bibitem{brucker1990job}
+Peter Brucker and Rainer Schlie.
+\newblock Job-shop scheduling with multi-purpose machines.
+\newblock {\em Computing}, 45(4):369--375, 1990.
+
+\bibitem{buyya2005gentle}
+Rajkumar Buyya and Srikumar Venugopal.
+\newblock Article: A gentle introduction to grid computing and technologies.
+\newblock {\em Journal: Database}, 2:R3, 2005.
+
+\bibitem{chervenak2000data}
+Ann Chervenak, Ian Foster, Carl Kesselman, Charles Salisbury, and Steven
+  Tuecke.
+\newblock The data grid: Towards an architecture for the distributed management
+  and analysis of large scientific datasets.
+\newblock {\em Journal of network and computer applications}, 23(3):187--200,
+  2000.
+
+\bibitem{chtepen}
+M.~Chtepen.
+\newblock Dynamic scheduling in grids system.
+\newblock {\em Sixth Firw PhD Symposium, Faculty of Engineering, Ghent
+  University}, page 110, 2005.
+
+\bibitem{chtepen2005dynamic}
+Maria Chtepen, Bart Dhoedt, and P~Vanrolleghem.
+\newblock Dynamic scheduling in grid systems.
+\newblock 2005.
+
+\bibitem{deb2002fast}
+Kalyanmoy Deb, Amrit Pratap, Sameer Agarwal, and Tamt Meyarivan.
+\newblock A fast and elitist multiobjective genetic algorithm: Nsga-ii.
+\newblock {\em Evolutionary Computation, IEEE Transactions}, 6(2):182--197,
+  2002.
+
+\bibitem{foster2002grid}
+Ian Foster, Carl Kesselman, Jeffrey~M Nick, and Steven Tuecke.
+\newblock Grid services for distributed system integration.
+\newblock {\em Computer}, 35(6):37--46, 2002.
+
+\bibitem{foster2001anatomy}
+Ian Foster, Carl Kesselman, and Steven Tuecke.
+\newblock The anatomy of the grid: Enabling scalable virtual organizations.
+\newblock {\em International journal of high performance computing
+  applications}, 15(3):200--222, 2001.
+
+\bibitem{garey1979computers}
+Michael~R Garey and David~S Johnson.
+\newblock {\em Book: Computers and intractability}, volume 174.
+\newblock freeman New York, 1979.
+
+\bibitem{greenberg2006best}
+Steve Greenberg, Evan Mills, Bill Tschudi, Peter Rumsey, and Bruce Myatt.
+\newblock Best practices for data centers: Lessons learned from benchmarking 22
+  data centers.
+\newblock {\em Proceedings of the ACEEE Summer Study on Energy Efficiency in
+  Buildings in Asilomar, CA. ACEEE, August}, 3:76--87, 2006.
+
+\bibitem{grosan2007multiobjective}
+Crina Grosan, Ajith Abraham, and Bjarne Helvik.
+\newblock Multiobjective evolutionary algorithms for scheduling jobs on
+  computational grids.
+\newblock In {\em International Conference on Applied Computing}, pages
+  459--463, 2007.
+
+\bibitem{gridload}
+GWA.
+\newblock The grid workloads archive, 2013.
+\newblock Online; accessed 10-April-2013, http://gwa.ewi.tudelft.nl/pmwiki/.
+
+\bibitem{ibarra1977heuristic}
+Oscar~H Ibarra and Chul~E Kim.
+\newblock Heuristic algorithms for scheduling independent tasks on nonidentical
+  processors.
+\newblock {\em Journal of the ACM (JACM)}, 24(2):280--289, 1977.
+
+\bibitem{jakob2008fast}
+Wilfried Jakob, Alexander Quinte, Karl-Uwe Stucky, and Wolfgang S{\"u}{\ss}.
+\newblock Fast multi-objective scheduling of jobs to constrained resources
+  using a hybrid evolutionary algorithm.
+\newblock In {\em Parallel Problem Solving from Nature--PPSN X}, pages
+  1031--1040. Springer, 2008.
+
+\bibitem{jis1979computers}
+M~Tech CSE~Syllabus JIS.
+\newblock Computers and intractability a guide to the theory of
+  np-completeness.
+\newblock 1979.
+
+\bibitem{kumar2004fuzzy}
+K~Pramod Kumar, Arun Agarwal, and R~Krishnan.
+\newblock Fuzzy based resource management framework for high throughput
+  computing.
+\newblock In {\em Cluster Computing and the Grid, 2004. CCGrid 2004. IEEE
+  International Symposium on}, pages 555--562. IEEE, 2004.
+
+\bibitem{mpich2}
+Argonne~National Laboratory.
+\newblock Mpich2 downloads, 2013.
+\newblock Online; accessed 1-May-2013,
+  http://www.mcs.anl.gov/research/projects/mpich2staging\\/goodell/downloads/i%
+ndex.php?s=downloads.
+
+\bibitem{liao2009research}
+Yeqing Liao and Quan Liu.
+\newblock Research on fine-grained job scheduling in grid computing.
+\newblock {\em International Journal of Information Engineering and Electronic
+  Business (IJIEEB)}, 1(1):9, 2009.
+
+\bibitem{liu2010scheduling}
+Hongbo Liu, Ajith Abraham, and Aboul~Ella Hassanien.
+\newblock Scheduling jobs on computational grids using a fuzzy particle swarm
+  optimization algorithm.
+\newblock {\em Future Generation Computer Systems}, 26(8):1336--1343, 2010.
+
+\bibitem{manne1960job}
+Alan~S Manne.
+\newblock On the job-shop scheduling problem.
+\newblock {\em Operations Research}, 8(2):219--223, 1960.
+
+\bibitem{muthuvelu2005dynamic}
+Nithiapidary Muthuvelu, Junyang Liu, Nay~Lin Soe, Venugopal Srikumar, Anthony
+  Sulistio, and Rajkumar Buyya.
+\newblock A dynamic job grouping-based scheduling for deploying applications
+  with fine-grained tasks on global grids.
+\newblock In {\em Conferences in Research and Practice in Information
+  Technology Series}, volume 108, pages 41--48, 2005.
+
+\bibitem{nabrzyski2004grid}
+Jarek Nabrzyski and Jan Schopf, Jennifer~M.
+\newblock {\em Book: Grid resource management: state of the art and future
+  trends}, volume~64.
+\newblock Springer, 2004.
+
+\bibitem{pettey2007gartner}
+Cris Pettey.
+\newblock Gartner estimates ict industry accounts for 2 percent of global co2
+  emissions, 2007.
+
+\bibitem{rajkumar1999architecture}
+Buyya Rajkumar.
+\newblock Architecture alternatives for single system image clusters.
+\newblock In {\em Conference on High Performance Computing on Hewlett-Packard
+  Systems (HiPer'99), Tromse, Norway}, 1999.
+
+\bibitem{ritchie2003static}
+Graham Ritchie.
+\newblock Static multi-processor scheduling with ant colony optimisation \&
+  local search.
+\newblock {\em Master of Science thesis, University of Edinburgh}, pages
+  1--101, 2003.
+
+\bibitem{ritchie2003fast}
+Graham Ritchie and John Levine.
+\newblock A fast, effective local search for scheduling independent jobs in
+  heterogeneous computing environments.
+\newblock 2003.
+
+\bibitem{ritchie2004hybrid}
+Graham Ritchie and John Levine.
+\newblock A hybrid ant algorithm for scheduling independent jobs in
+  heterogeneous computing environments.
+\newblock 2004.
+
+\bibitem{saito2007application}
+Mutsuo Saito.
+\newblock An application of finite field: Design and implementation of 128-bit
+  instruction-based fast pseudorandom number generator.
+\newblock {\em Master's thesis, Hiroshima University}, 2007.
+
+\bibitem{wall1996genetic}
+Matthew~Bartschi Wall.
+\newblock {\em A genetic algorithm for resource-constrained scheduling}.
+\newblock PhD thesis, Massachusetts Institute of Technology, 1996.
+
+\bibitem{wang2012enhanced}
+Ling Wang, Gang Zhou, Ye~Xu, and Min Liu.
+\newblock An enhanced pareto-based artificial bee colony algorithm for the
+  multi-objective flexible job-shop scheduling.
+\newblock {\em The International Journal of Advanced Manufacturing Technology},
+  pages 1--13, 2012.
+
+\bibitem{wiki_CPU}
+Wikipedia.
+\newblock Instructions per second, 2013.
+\newblock Online; accessed
+  1-May-2013,http://en.wikipedia.org/wiki/Instructions\_$per\_$second.
+
+\bibitem{wiki_wattage}
+Wikipedia.
+\newblock List of cpu power dissipation figures, 2013.
+\newblock Online; accessed 1-May-2013,
+  http://en.wikipedia.org/wiki/List\_of\_CPU\_power\_dissipation\_figures.
+
+\bibitem{xhafa2010computational}
+Fatos Xhafa and Ajith Abraham.
+\newblock Computational models and heuristic methods for grid scheduling
+  problems.
+\newblock {\em Future generation computer systems}, 26(4):608--621, 2010.
+
+\bibitem{yarkhan2002experiments}
+Asim YarKhan and Jack~J Dongarra.
+\newblock Experiments with scheduling using simulated annealing in a grid
+  environment.
+\newblock In {\em Grid Computing—GRID 2002}, pages 232--242. Springer, 2002.
+
+\bibitem{yu2008evolution}
+Kun-Ming Yu and Cheng-Kwan Chen.
+\newblock An evolution-based dynamic scheduling algorithm in grid computing
+  environment.
+\newblock In {\em Intelligent Systems Design and Applications, 2008. ISDA'08.
+  Eighth International Conference on}, volume~1, pages 450--455. IEEE, 2008.
+
+\bibitem{zheng2006task}
+Shijue Zheng, Wanneng Shu, and Li~Gao.
+\newblock Task scheduling using parallel genetic simulated annealing algorithm.
+\newblock In {\em Service Operations and Logistics, and Informatics, 2006.
+  SOLI'06. IEEE International Conference on}, pages 46--50. IEEE, 2006.
+
+\end{thebibliography}

@@ -1,0 +1,127 @@
+\documentclass[12pt,a4paper,oneside]{book}
+
+\usepackage[left=3.5cm,top=2.5cm,right=2.5cm,bottom=2.5cm]{geometry} %margins
+\usepackage{amsthm} % theorem environment
+\usepackage{amsmath} % math
+\usepackage{pifont} % tick  mark
+\usepackage{amssymb} % symbols
+\usepackage{graphics} % for including figures
+\usepackage{graphicx} % for including figures
+\usepackage{setspace} % for doublespacing singlespacing etc.
+\usepackage{datetime} % to write the date in the desired format
+\usepackage[title, titletoc]{appendix}
+\usepackage{subfigure}
+\usepackage{algorithm}
+%\usepackage[vline]{algorithm2e}
+\usepackage{algorithmic}
+\usepackage{epstopdf}
+\usepackage{epsfig}
+%\usepackage{algorithmicx}
+%\usepackage{pseudocode}
+%\usepackage{algpseudocode}
+\usepackage{float}
+\usepackage{listings}
+\usepackage{framed}
+\usepackage{multirow}
+\usepackage[square, numbers, comma, sort&compress]{natbib}
+\usepackage{hyperref}
+\usepackage{fixltx2e}
+\usepackage{url}
+\usepackage{pdfpages}
+
+\theoremstyle{definition}
+\newtheorem{example}{Example}
+\newtheorem{definition}{Definition}
+\newcommand{\cmark}{\ding{51}}
+\newcommand{\xmark}{\ding{55}}
+\renewcommand{\algorithmicrequire}{\textbf{Input:}}
+\renewcommand{\algorithmicensure}{\textbf{Output:}}
+
+\graphicspath{{img/}}
+
+\pagestyle{myheadings} 
+
+% % % % % % % % % % % % % % % % %
+
+%all this for generating title and certificate
+\newdateformat{monthyear}{\monthname[\THEMONTH], \THEYEAR}
+\def\title{Multi-objective Evolution based Dynamic Job Scheduler in Grid}
+%\def\subtitle{Flexible Job Shop Scheduling of Jobs with dynamic allocation scheme}
+\def\author{Debjyoti Paul}
+\def\rollno{11111015}
+\def\degree{Master of Technology}
+\def\department{Department of Computer Science and Engineering}
+\def\shortdepartment{CSE}
+\def\institute{Indian Institute of Technology Kanpur}
+\def\shortinstitute{I.I.T. Kanpur}
+\def\longinstitute{Indian Institute of Technology, Kanpur}
+\def\advisor{Prof. Sanjeev Kumar Aggarwal}
+\def\advisordepartment{Department of Computer Science and Engineering}
+
+% % % % % % % % % % % % % % % % % 
+
+\hypersetup{
+	bookmarks=true,
+	bookmarksopen=true,
+	bookmarksopenlevel=0,
+	bookmarksnumbered=true,
+	hypertexnames=false,
+	colorlinks=true,
+	linkcolor={black},
+	citecolor={black},
+	urlcolor={black},
+	breaklinks=true,
+	pdfauthor={\author},
+	pdftitle={\title}
+}
+
+
+\begin{document}
+	\frontmatter
+	\thispagestyle{empty}
+	\include{title}
+	\thispagestyle{empty}
+%	\include{certificate}
+       \includepdf{certificate0001.pdf}
+	%\pagestyle{myheadings}
+	\pagenumbering{roman}
+	\pagestyle{plain}
+	\setcounter{page}{2}
+	\addcontentsline{toc}{chapter}{Abstract}
+	
+	\onehalfspace
+	\include{abstract}
+	\include{Dedication}
+	\include{acknowledgement}
+	
+	\doublespacing
+	\setcounter{tocdepth}{1}
+	\tableofcontents
+	
+	\listoftables
+	\addcontentsline{toc}{chapter}{List of Tables}
+	
+	\listoffigures
+	\addcontentsline{toc}{chapter}{List of Figures}
+	
+	\mainmatter
+	\doublespacing
+	\pagenumbering{arabic}
+	\pagestyle{myheadings}
+	
+	\include{Introduction}
+	\input{Related}
+        \input{Methodology}
+        \input{Results}
+        \input{Conclusion}
+        \appendix
+        \input{User_Manual}
+%	\input{Results2} 
+	\backmatter
+	\singlespacing
+	\addcontentsline{toc}{chapter}{Bibliography}
+%	\bibliographystyle{unsrt}
+%       \bibliographystyle{alpha}
+	\bibliographystyle{plain}
+	\bibliography{references}
+\end{document}
